@@ -1,0 +1,28 @@
+{
+    "11d_strata_attention": {
+        "retina": 0.0,
+        "cochlea": 0.0,
+        "tactile": 0.0,
+        "olfactory": 0.0,
+        "motor": 0.0,
+        "neuron": 0.0,
+        "monad": 0.0,
+        "shunya": 0.0,
+        "seed": 0.0,
+        "genome": 0.0,
+        "nexus": 0.0
+    },
+    "dynamic_strata_weights": {
+        "retina": 0.5,
+        "cochlea": 0.5,
+        "tactile": 0.5,
+        "olfactory": 0.5,
+        "motor": 0.5,
+        "neuron": 0.5,
+        "monad": 0.5,
+        "shunya": 0.5,
+        "seed": 0.5,
+        "genome": 0.5,
+        "nexus": 0.5
+    }
+}
