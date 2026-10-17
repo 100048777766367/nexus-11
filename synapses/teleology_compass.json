@@ -1,17 +1,17 @@
 {
-    "bhumi_score_11d": 0.9758,
+    "bhumi_score_11d": 0.9824,
     "bhumi_dimensions": {
-        "Pramudita (Hoan H\u1ef7)": 0.9839,
-        "Vimala (Ly C\u1ea5u)": 0.9823,
-        "Prabhakari (Ph\u00e1t Quang)": 0.9807,
-        "Arcismati (Di\u1ec5m Hu\u1ec7)": 0.9791,
-        "Sudurjaya (Nan Th\u1eafng)": 0.9775,
-        "Abhimukhi (Hi\u1ec7n Ti\u1ec1n)": 0.9758,
-        "Durangama (Vi\u1ec5n H\u00e0nh)": 0.9742,
-        "Acala (B\u1ea5t \u0110\u1ed9ng)": 0.9726,
-        "Sadhumati (Thi\u1ec7n Hu\u1ec7)": 0.971,
-        "Dharmamegha (Ph\u00e1p V\u00e2n)": 0.9694,
-        "Prabhasvara (Ph\u1ed5 Quang Vi\u00ean M\u00e3n)": 0.9678
+        "Pramudita (Hoan H\u1ef7)": 0.9883,
+        "Vimala (Ly C\u1ea5u)": 0.9871,
+        "Prabhakari (Ph\u00e1t Quang)": 0.986,
+        "Arcismati (Di\u1ec5m Hu\u1ec7)": 0.9848,
+        "Sudurjaya (Nan Th\u1eafng)": 0.9836,
+        "Abhimukhi (Hi\u1ec7n Ti\u1ec1n)": 0.9824,
+        "Durangama (Vi\u1ec5n H\u00e0nh)": 0.9813,
+        "Acala (B\u1ea5t \u0110\u1ed9ng)": 0.9801,
+        "Sadhumati (Thi\u1ec7n Hu\u1ec7)": 0.9789,
+        "Dharmamegha (Ph\u00e1p V\u00e2n)": 0.9778,
+        "Prabhasvara (Ph\u1ed5 Quang Vi\u00ean M\u00e3n)": 0.9766
     },
     "veto": false
 }
