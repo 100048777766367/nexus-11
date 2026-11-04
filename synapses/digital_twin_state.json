@@ -1,11 +1,11 @@
 {
     "epoch_simulation": {
         "retina": {
-            "focal_bias": 48383.405,
+            "focal_bias": 49041.3915,
             "status": "Simulated_Active"
         },
         "cochlea": {
-            "resonance_hz": 98497666.0,
+            "resonance_hz": 942211844.0,
             "status": "Simulated_Active"
         },
         "tactile": {
@@ -13,7 +13,7 @@
             "status": "Simulated_Active"
         },
         "olfactory": {
-            "ligand_binding": 57675.8109,
+            "ligand_binding": 32885.4052,
             "status": "Simulated_Active"
         },
         "motor": {
