@@ -1,25 +1,25 @@
 {
     "epoch_simulation": {
         "retina": {
-            "focal_bias": 24510.6022,
+            "focal_bias": 38226.5724,
             "status": "Simulated_Active"
         },
         "cochlea": {
-            "resonance_hz": 542526670.0,
+            "resonance_hz": 1116018088.0,
             "status": "Simulated_Active"
         },
         "tactile": {
-            "pain_threshold": 0.648,
+            "pain_threshold": 0.6482,
             "status": "Simulated_Active"
         },
         "olfactory": {
-            "ligand_binding": 7508.9158,
+            "ligand_binding": 38347.5971,
             "status": "Simulated_Active"
         },
         "motor": {
             "actuation_pulse": [
-                0.824,
-                0.176
+                0.8241,
+                0.1759
             ],
             "status": "Simulated_Active"
         },
@@ -28,7 +28,7 @@
             "status": "Simulated_Active"
         },
         "monad": {
-            "invariant_reflection": 0.824,
+            "invariant_reflection": 0.8241,
             "status": "Simulated_Active"
         },
         "shunya": {
@@ -44,7 +44,7 @@
             "status": "Simulated_Active"
         },
         "nexus": {
-            "omni_junction_stability": 0.676,
+            "omni_junction_stability": 0.6759,
             "status": "Simulated_Active"
         }
     }
